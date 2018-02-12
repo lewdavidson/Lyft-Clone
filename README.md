@@ -8,8 +8,9 @@ A clone of the Lyft website made during our first week of React, utilizing mappi
 Technologies Used:
 * CSS
 * HTML
-* SASS
 * Atom - Editor
-* Bootstrap
+* React
+* ES6
+* JSX
 
 This project was made at Epicodus by two students.

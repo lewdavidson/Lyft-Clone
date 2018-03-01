@@ -1,22 +1,21 @@
 # Lyft-Clone
 A clone of the Lyft website made during our first week of React, utilizing mapping, props, and styling in jsx.
 
+The original page:
+
+![example-image-one](lyft-example.png)
+![example-image-two](lyft2.png)
+
 
 ## Getting Started
 
-* clone the repo
-* npm install
-* npm run start
-* will be served to localhost 8080
-
-### Prerequisites
-
-```
-A good code editor - I use Atom
-```
-```
-Node Package Manager
-```
+* open terminal
+* $ cd Desktop
+* $ git clone https://github.com/lewdavidson/Lyft-Clone.git
+* $ cd Lyft-Clone
+* $ npm install
+* $ npm run start
+* open http://localhost:8080/ in the web browser of your choice
 
 ## Authors
 
